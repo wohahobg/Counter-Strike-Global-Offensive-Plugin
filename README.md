@@ -1,1 +1,1 @@
-For more information please vist: https://docs.gamecms.org/как-да-свържем-своят-csgo-сървър-със-сайта
+For more information please vist: [https://docs.gamecms.org/counter-strike-global-offensive](https://docs.gamecms.org/counter-strike-global-offensive)
